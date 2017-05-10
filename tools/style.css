@@ -104,7 +104,7 @@ p.line1{
 }
 
 .mainform{
-	border: 1px solid #8b7d73;
+	border: 1px solid #000;
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
 border-radius: 5px;	
@@ -156,7 +156,7 @@ width: 100%;
 
 h2{
 	font-size: 12px;
-	color: #433022;
+	color: #000;
 	letter-spacing: 2px;
 	margin-bottom: 10px;
 }
