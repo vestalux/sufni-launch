@@ -76,7 +76,7 @@ h1{
 }
 
 h1 span{
-	color: #a7e09f;
+	color: #000;
 }
 
 p.line1{
@@ -129,7 +129,7 @@ width: 100%;
 	width: 34%;
 	float: left;
 	background: #d4d0ce;
-	color: #433022;
+	color: #000;
 	border: none;
 	font-family: 'Merriweather', serif;
 	text-transform: uppercase;
@@ -169,7 +169,7 @@ h2{
 }
 
 .email a{
-	color: #433022;
+	color: #000;
 	font-size: 14px;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -189,7 +189,7 @@ email a:hover{
 
 .social a{
 	margin: 0 15px;
-	color: #433022;
+	color: #000;
 	text-decoration: none;
 }
 
@@ -203,7 +203,7 @@ email a:hover{
 }
 
 .call p{
-	color: #433022;
+	color: #000;
 	font-weight: 700;
 	font-size: 14px;
 }
@@ -237,7 +237,7 @@ email a:hover{
 
 .social a{
 	margin: 0 10px;
-	color: #433022;
+	color: #000;
 	text-decoration: none;
 }
 
@@ -307,7 +307,7 @@ width: 100%;
 }
 
 .field input{
-		border: 1px solid #8b7d73;
+		border: 1px solid #000;
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
 border-radius: 5px;	
@@ -327,7 +327,7 @@ border-radius: 5px;
 	width: 100%;
 	float: left;
 	background: #d4d0ce;
-	color: #433022;
+	color: #000;
 	border: none;
 	font-family: 'Merriweather', serif;
 	text-transform: uppercase;
@@ -359,7 +359,7 @@ h2{
 }
 
 .email, .social{
-		border-bottom: 1px solid #f4f4f3;
+		border-bottom: 1px solid #000;
 
 }
 
